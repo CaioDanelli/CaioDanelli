@@ -1,4 +1,6 @@
-### Olá! Eu sou o Caio Danelli 👋
+### Hi! I'm Caio Danelli 👋
+#### A web development programming student from Brazil
+- 🌱 I’m currently learning **Java*
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/cainhoow/)
