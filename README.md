@@ -1,11 +1,12 @@
+<h1 align="center"> Hi!👋 I'm Caio Danelli </h1> 
+<h4 align="center"> A web development programming student from Brazil </h4>
+
 <div align="center">
     
 ![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-04ead2b196.gif)
 
 </div>
 
-<h1 align="center"> Hi!👋 I'm Caio Danelli </h1> 
-<h3 align="center"> A web development programming student from Brazil </h3>
 <h3 align="center"> How to reach me? </h3>
 
 <div align="center">
