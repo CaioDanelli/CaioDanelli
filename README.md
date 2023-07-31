@@ -6,7 +6,7 @@
 ![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-04ead2b196.gif)
 
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CaioDanelli&label=Profile%20views&color=0e75b6&style=flat" alt="CaioDanelli" /> </p>
 <h3 align="center"> 🔎How to reach me?</h3>
 
 <div align="center">
