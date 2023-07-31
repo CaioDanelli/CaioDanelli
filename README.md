@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!👋 I'm Caio Danelli </h1> 
+<h1 align="center"> Hi!<img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" width='40'/> I'm Caio Danelli </h1> 
 <h4 align="center"> A web development programming student from Brazil </h4>
 
 <div align="center">
