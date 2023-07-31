@@ -1,4 +1,4 @@
-### Olá! Eu sou O Caio Danelli 👋
+### Olá! Eu sou o Caio Danelli 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/cainhoow/)
