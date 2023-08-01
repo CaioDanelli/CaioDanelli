@@ -19,9 +19,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:caioc2001@gmail.com?subject=&body=)
     
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioDanelli&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDanelli&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/CaioDanelli">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioDanelli&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDanelli&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 </div>
 
