@@ -18,17 +18,10 @@
 )](https://api.whatsapp.com/send?phone=5516997660115)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:caioc2001@gmail.com?subject=&body=)
-</div>
-
-<div align="center">
     
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioDanelli&show_icons=true&theme=tokyonight)
 
-</div>
-
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDanelli)](https://github.com/CaioDanelli/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDanelli&theme=tokyonight)
 
 </div>
 
