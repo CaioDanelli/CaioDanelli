@@ -37,4 +37,4 @@
     <img align="center" alt="html15" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div> 
   
-![snake gif](https://github.com/CaioDanelli/CaioDanelli/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CaioDanelli/CaioDanelli/blob/output/github-contribution-grid-snake.gif)
