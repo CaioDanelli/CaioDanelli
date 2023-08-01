@@ -2,10 +2,9 @@
 <h3 align="center"> A web development programming student from Brazil </h3>
 
 <div align="center">
-    
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-04ead2b196.gif)
-
+<img align="center" alt="Coding" width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJscDV2dGhtcnVpODNwZDV0d2NobjIyODU4NGEycXBkeGE0c3B3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9P0RcI5rYFe7tQDlQ0/giphy.gif")>
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CaioDanelli&label=Profile%20views&color=0e75b6&style=flat" alt="CaioDanelli" /> </p>
 <h3 align="center"> 🔎How to reach me?</h3>
 
